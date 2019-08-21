@@ -128,27 +128,38 @@ projects:
     assignments:
       - title: Velocity
         link: "#hook"
-        tagline: "Enterprise application implementation and delivery, IBM Watson Health, Cúram, Health and Human services Connect 360"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: B
+      - title: DevStudio
         link: "#"
-        tagline: "Complex relationship management application and system integration delivery projects; Master Data Management, Operational Data Store, API integration and transformation."
-
-     - title: Tempo
-        link: "#"
-        tagline: "Cloud solution delivery; Government Infrastructure as a Service (IaaS), cloud risk assessment and analysis"
-
-      - title: Atom
-        link: "#"
-        tagline: "Hybrid Cloud Solutions; Solutions as a Service (SaaS) and Platforms as a Service (PaaS)"
-
-      - title: Delta
-       link: "#"
-        tagline: "Responding to RFP tenders, through to formal oral presentations and contracting the statement of work"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
         
-      - title: DeltaB  
-       link: "#" 
-        tagline: "Watson Natural Language discovery, Artificial Intelligence AI and development of chat bots"
+
+
+#    assignments:
+#      - title: Velocity
+#        link: "#hook"
+#        tagline: "Enterprise application implementation and delivery, IBM Watson Health, Cúram, Health and Human services Connect 360"
+
+#      - title: B
+#       link: "#"
+#        tagline: "Complex relationship management application and system integration delivery projects; Master Data Management, Operational Data Store, API integration and transformation."
+
+#     - title: Tempo
+#        link: "#"
+#        tagline: "Cloud solution delivery; Government Infrastructure as a Service (IaaS), cloud risk assessment and analysis"
+
+#      - title: Atom
+#        link: "#"
+#        tagline: "Hybrid Cloud Solutions; Solutions as a Service (SaaS) and Platforms as a Service (PaaS)"
+
+ #     - title: Delta
+ #      link: "#"
+ #       tagline: "Responding to RFP tenders, through to formal oral presentations and contracting the statement of work"
+        
+ #     - title: DeltaB  
+ #      link: "#" 
+ #       tagline: "Watson Natural Language discovery, Artificial Intelligence AI and development of chat bots"
 
 publications:
     title: Publications
