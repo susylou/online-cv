@@ -114,8 +114,8 @@ experiences:
 
         Susy lead the technical pre-sales activity and lead the delivery team to a successful 
         implementation, from ideation to production support of the cloud application for the 
-        end user community. The solution wrapped around the client; case management and o
-        utcomes-based planning. The solution was hosted on the all of government Infrastructure 
+        end user community. The solution wrapped around the client; case management and 
+        outcomes-based planning. The solution was hosted on the all of government Infrastructure 
         as a service (IaaS)
 
 
@@ -125,10 +125,12 @@ experiences:
 projects:
     title: Projects
     intro: >
-
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: A
+      - title: Velocity
         link: "#hook"
         tagline: "Enterprise application implementation and delivery, IBM Watson Health, Cúram, Health and Human services Connect 360"
 
