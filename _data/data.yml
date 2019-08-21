@@ -64,48 +64,63 @@ education:
 
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Enterprise Architect and Pre sales development
+      time: 01/2019 - Present
+      company: IBM | IBM Digital Workplace
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Susy has been central to establishing business opportunities for 
+        cloud enabled digital workplaces. To design an enterprise solution 
+        from the ground up to support a modern organisation to have a robust 
+        cloud first platform. From the underpinning network infrastructure, 
+        through devices, application, workforce mobility and security. 
+        To enable digital self-management and to safely support cloud adoption 
+        and optimisation for new clients.
 
-          - Bullet point
-          - Bullet point
+       #   - Bullet point
+       #   - Bullet point
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Lead Architect and Pre sales development
+      time: 11/2017 – 12/2019
+      company: IBM | Ministry of Social Development MSD - Connect 360
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Susy lead the Health and Human Services Connect 360 solution 
+        delivery at MSD. Connect 360 was the central component to solve 
+        the availability and data integrity challenge facing MSD’s digital channels. 
+        This was a prominent program of work to deliver under their SAFe framework. 
+        A complex landscape that required a deep understanding of not only the 
+        transactional and data lifecycles, but also the processes, principles and 
+        governance required to establish such a real-time capture of a data set.
 
-          - Bullet point
-          - Bullet point
+        The solution designed to focus on the end user experience and the priority 
+        transactions to support an always available digital platform. At the heart 
+        of the Connect360 architecture is an IBM InfoSphere Master Data Management 
+        (MDM) component and an Operational Data Store (ODS) component that have been 
+        closely coupled with Cúram and integrated using IBM Integration Bus (IIB). The 
+        transactional throughput is connecting with the back end ESB and the API platform. 
+        The solution is hosted on the all of government Infrastructure as a Service (IaaS).
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+
+         # - Bullet point
+         # - Bullet point
+
+    - role: Lead Architect and Pre sales development
+      time: 01/2016 - 02/2017
+      company: IBM | Ministry of Health and Te Pune Kokiri
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Susy was the lead architect to deliver a cloud solution for the NGO sector of Whanau 
+        Ora delivering their social services model. IBM provided the services and platform to 
+        configure, run and support the Whānau Ora Information System. This was the first of a 
+        kind Cúram as a solution.
 
-          - Bullet point
-          - Bullet point
+        Susy lead the technical pre-sales activity and lead the delivery team to a successful 
+        implementation, from ideation to production support of the cloud application for the 
+        end user community. The solution wrapped around the client; case management and o
+        utcomes-based planning. The solution was hosted on the all of government Infrastructure 
+        as a service (IaaS)
+
+
+         # - Bullet point
+         # - Bullet point
 
 projects:
     title: Projects
