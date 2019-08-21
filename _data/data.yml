@@ -100,8 +100,8 @@ experiences:
         The solution is hosted on the all of government Infrastructure as a Service (IaaS).
 
 
-         # - Bullet point
-         # - Bullet point
+      # - Bullet point
+      # - Bullet point
 
     - role: Lead Architect and Pre sales development
       time: 01/2016 - 02/2017
@@ -119,36 +119,36 @@ experiences:
         as a service (IaaS)
 
 
-         # - Bullet point
-         # - Bullet point
+      # - Bullet point
+      # - Bullet point
 
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    title: Key Skills
+  #  intro: >
+
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+   #   - title: Velocity
+    #    link: "#hook"
+        tagline: "Enterprise application implementation and delivery, IBM Watson Health, Cúram, Health and Human services Connect 360"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+   #   - title: DevStudio
+   #     link: "#"
+        tagline: "Complex relationship management application and system integration delivery projects; Master Data Management, Operational Data Store, API integration and transformation."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+   #   - title: Tempo
+   #     link: "#"
+        tagline: "Cloud solution delivery; Government Infrastructure as a Service (IaaS), cloud risk assessment and analysis"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+   #   - title: Atom
+   #     link: "#"
+        tagline: "Hybrid Cloud Solutions; Solutions as a Service (SaaS) and Platforms as a Service (PaaS)"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+   #   - title: Delta
+    #    link: "#"
+        tagline: "Responding to RFP tenders, through to formal oral presentations and contracting the statement of work"
+        
+        tagline: "Watson Natural Language discovery, Artificial Intelligence AI and development of chat bots"
 
 publications:
     title: Publications
