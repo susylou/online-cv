@@ -128,11 +128,11 @@ projects:
 
 
     assignments:
-      - title: "#"
+      - title: #
         link: "#hook"
         tagline: "Enterprise application implementation and delivery, IBM Watson Health, Cúram, Health and Human services Connect 360"
 
-      - title: "#"
+      - title: #
         link: "#"
         tagline: "Complex relationship management application and system integration delivery projects; Master Data Management, Operational Data Store, API integration and transformation."
 
