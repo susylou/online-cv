@@ -129,25 +129,26 @@ projects:
 
     assignments:
    #   - title: Velocity
-    #    link: "#hook"
+        link: "#hook"
         tagline: "Enterprise application implementation and delivery, IBM Watson Health, Cúram, Health and Human services Connect 360"
 
    #   - title: DevStudio
-   #     link: "#"
+        link: "#"
         tagline: "Complex relationship management application and system integration delivery projects; Master Data Management, Operational Data Store, API integration and transformation."
 
    #   - title: Tempo
-   #     link: "#"
+        link: "#"
         tagline: "Cloud solution delivery; Government Infrastructure as a Service (IaaS), cloud risk assessment and analysis"
 
    #   - title: Atom
-   #     link: "#"
+        link: "#"
         tagline: "Hybrid Cloud Solutions; Solutions as a Service (SaaS) and Platforms as a Service (PaaS)"
 
    #   - title: Delta
-    #    link: "#"
+       link: "#"
         tagline: "Responding to RFP tenders, through to formal oral presentations and contracting the statement of work"
         
+       link: "#" 
         tagline: "Watson Natural Language discovery, Artificial Intelligence AI and development of chat bots"
 
 publications:
