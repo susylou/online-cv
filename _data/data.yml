@@ -150,74 +150,47 @@ projects:
         link: "#"
         tagline: "Watson Natural Language discovery, Artificial Intelligence AI and development of chat bots"  
         
-        
-               
 
-#    assignments:
-#      - title: Velocity
-#        link: "#hook"
-#        tagline: "Enterprise application implementation and delivery, IBM Watson Health, Cúram, Health and Human services Connect 360"
+#publications:
+#    title: Publications
+#    intro: |
+#     You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#     bibendum fringilla a eu lectus.
 
-#      - title: B
-#       link: "#"
-#        tagline: "Complex relationship management application and system integration delivery projects; Master Data Management, Operational Data Store, API integration and transformation."
+#   papers:
+#      - title: The Art of Computer Programming
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
 
-#     - title: Tempo
-#        link: "#"
-#        tagline: "Cloud solution delivery; Government Infrastructure as a Service (IaaS), cloud risk assessment and analysis"
+#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-#      - title: Atom
-#        link: "#"
-#        tagline: "Hybrid Cloud Solutions; Solutions as a Service (SaaS) and Platforms as a Service (PaaS)"
-
- #     - title: Delta
- #      link: "#"
- #       tagline: "Responding to RFP tenders, through to formal oral presentations and contracting the statement of work"
-        
- #     - title: DeltaB  
- #      link: "#" 
- #       tagline: "Watson Natural Language discovery, Artificial Intelligence AI and development of chat bots"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#     - title: A syntax directed compiler for Algol 60
+#       authors: Edgar T. Irons
+#       conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Tools &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Agile & Scrum & SAFe & Kanban & Design Thinking
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Relational DB's & Data Modeling
         level: 98%
 
-      - name: Angular
+      - name: Java & Javascript
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Rational Software Architect & Rational Suite
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Weblogic, Webshpere & Tomcat
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: API's, RESTful & SOAP 
         level: 60%
 
 footer: >
