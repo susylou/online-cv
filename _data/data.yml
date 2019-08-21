@@ -15,7 +15,7 @@ sidebar:
     email: susyloujackson@gmail.com
     phone: 021546869
     website: https://susylou.github.io/online-cv/
-    linkedin: https://www.linkedin.com/in/susyjackson/
+    linkedin: www.linkedin.com/in/susyjackson/
     github: susylou
     #gitlab:
     #bitbucket:
@@ -35,13 +35,13 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Surfing
         link:
 
-      - item: Snowboarding
+      - item: Skiing
         link:
 
-      - item: Cooking
+      - item: Running
         link:
 
 career-profile:
