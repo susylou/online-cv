@@ -24,15 +24,15 @@ sidebar:
     #codewars:
     #goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: English
-        level: Native
+#    languages:
+#      - idiom: English
+#        level: Native
 
-      - idiom: French
-        level: Professional
+#      - idiom: French
+#        level: Professional
 
-      - idiom: Spanish
-        level: Professional
+#     - idiom: Spanish
+#        level: Professional
 
     interests:
       - item: Surfing
