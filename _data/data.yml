@@ -64,8 +64,14 @@ education:
 
 
 experiences:
+    - role: Senior Enterprise Architect
+      time: 09/2019 - Present
+      company: Ministry of Social Development MSD
+      details: |
+        Working as a key senior resource for the Enterprise Architecture team at the largest public sector organisation at the core of their 	strategic transformation journey. To provide senior advice and guidance for key core enablement domains, delivering strategy and 	roadmaps to support the business priorities and leadership direction. Driving the architectural understanding of those core business 	capabilities and the future transformation state need for change, to ultimately deliver better citizen centric outcomes and public 	services.
+
     - role: Enterprise Architect and Pre sales development
-      time: 01/2019 - Present
+      time: 01/2019 - 09/2019
       company: IBM | IBM Digital Workplace
       details: |
         Susy has been central to establishing business opportunities for 
