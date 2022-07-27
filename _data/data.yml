@@ -65,6 +65,42 @@ education:
       university: University of Liverpool
       time: 1995 - 1999
 
+projects:
+    title: Key Skills
+    intro: >
+#      You can list your side projects or open source libraries in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
+    assignments:
+      - title: 
+        link: "#hook"
+        tagline: "Senior advisor on opportunities to deliver people-centered, digital service delivery for open, transparent and responsive government"
+
+      - title: 
+        link: "#"
+        tagline: "Confident in leading outcomes-based transformation programs leveraging SaaS, Public Cloud with complex legacy integration requirements"
+    
+      - title: 
+        link: "#"
+        tagline: "10 years Technical Consulting leading large solutions teams winning the largest complex business opportunities in New Zealand."
+        
+      - title: 
+        link: "#"
+        tagline: "Proven track record in Enterprise Architecture and Senior Application Development with over 20 years of experience"
+        
+      - title: 
+        link: "#"
+        tagline: "Leadership roles in large multinational organisation’s engaging with New Zealand’s largest businesses."
+        
+      - title: 
+        link: "#"
+        tagline: "Strategic thinker with strong ability to collaborate across large teams gaining consensus resulting in coordinated execution."  
+        
+      - title: 
+        link: "#"
+        tagline: "Highly effective problem solver, able to research and troubleshoot complex Application and system challenges under pressure"  
+        
 
 experiences:
     - role: Associate Partner Architect
@@ -133,42 +169,6 @@ experiences:
         outcomes-based planning. The solution was hosted on the all of government Infrastructure 
         as a service (IaaS)
 
-projects:
-    title: Key Skills
-    intro: >
-#      You can list your side projects or open source libraries in this
-#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
-    assignments:
-      - title: 
-        link: "#hook"
-        tagline: "Senior advisor on opportunities to deliver people-centered, digital service delivery for open, transparent and responsive government"
-
-      - title: 
-        link: "#"
-        tagline: "Confident in leading outcomes-based transformation programs leveraging SaaS, Public Cloud with complex legacy integration requirements"
-    
-      - title: 
-        link: "#"
-        tagline: "10 years Technical Consulting leading large solutions teams winning the largest complex business opportunities in New Zealand."
-        
-      - title: 
-        link: "#"
-        tagline: "Proven track record in Enterprise Architecture and Senior Application Development with over 20 years of experience"
-        
-      - title: 
-        link: "#"
-        tagline: "Leadership roles in large multinational organisation’s engaging with New Zealand’s largest businesses."
-        
-      - title: 
-        link: "#"
-        tagline: "Strategic thinker with strong ability to collaborate across large teams gaining consensus resulting in coordinated execution."  
-        
-      - title: 
-        link: "#"
-        tagline: "Highly effective problem solver, able to research and troubleshoot complex Application and system challenges under pressure"  
-        
 
 #publications:
 #    title: Publications
@@ -190,27 +190,27 @@ projects:
 #       authors: Edgar T. Irons
 #       conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
-    title: Tools &amp; Proficiency
-
-    toolset:
-      - name: Agile & Scrum & SAFe & Kanban & Design Thinking
-        level: 98%
-
-      - name: Relational DB's & Data Modeling
-        level: 98%
-
-      - name: Java & Javascript
-        level: 98%
-
-      - name: Rational Software Architect & Rational Suite
-        level: 95%
-
-      - name: Weblogic, Webshpere & Tomcat
-        level: 85%
-
-      - name: API's, RESTful & SOAP 
-        level: 60%
+#skills:
+#    title: Tools &amp; Proficiency
+#
+#   toolset:
+#      - name: Agile & Scrum & SAFe & Kanban & Design Thinking
+#        level: 98%
+#
+#      - name: Relational DB's & Data Modeling
+#        level: 98%
+#
+#      - name: Java & Javascript
+#        level: 98%
+#
+#      - name: Rational Software Architect & Rational Suite
+#        level: 95%
+#
+#      - name: Weblogic, Webshpere & Tomcat
+#        level: 85%
+#
+#      - name: API's, RESTful & SOAP 
+#        level: 60%
 
 #footer: >
 #    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
