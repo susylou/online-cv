@@ -47,10 +47,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Susy is an application and enterprise architect with over 20 years 
-      IT experience and is currently working within dynamic and global bid 
-      teams to shape and structure deals within the IBM landscape. A strategic 
-      thinker who can then oversee the high-level design and deliver through to production. 
+      Susy is an enterprise level advisor and architect, consulting and collaborating to lead large and complex digital transformations within the organisation to enable and drive their business outcomes. Susy is a well organised strategic thinker with a customer-centric perspective, Susy has an outgoing and enthusiastic personality type, 
+      she enjoys working in teams where she can bring a collaborative working style suited to large complex enterprise application implementations.
+
+      As a Lead Consultant and business focused Enterprise Architect with over 20 years technology experience, Susy has led teams to deliver business value and achieve benefits realisation from their investments in technology. Designing and innovating digital solutions that can transform business processes and operations. Susy is comfortable and at ease with accountability of the Enterprise Applications ecosystem associated with large complex client outcomes-based solutions. Using agile, new ways of working, cloud adoption and emerging technology enablers to underpin a modern ecosystem.
+
+      Susy is passionate and successful at building solid working relationships and delivering products and services to meet desired outcomes.
+ 
 
 education:
     - degree: MSc in Information Systems (with Distinction)
@@ -64,8 +67,14 @@ education:
 
 
 experiences:
+    - role: Associate Partner Architect
+      time: 09/2021 - Present
+      company: DXC Technology
+      details: |
+        Central to supporting DXC working collaboratively across the public sector accounts and bringing innovative technology solutions and advisory capability to key strategic accounts. Delivering roadmaps and key workload transformative applications into enable agencies to modernize their user experiences and expediate gaining the value of native cloud. The realise the benefits of hyperscale within the complex domains of exiting public service technology landscapes.
+        
     - role: Senior Enterprise Architect
-      time: 09/2019 - Present
+      time: 09/2019 - 2021
       company: Ministry of Social Development MSD
       details: |
         Working as a key senior resource for the Enterprise Architecture team at the largest public sector organisation at the core of their 	strategic transformation journey. To provide senior advice and guidance for key core enablement domains, delivering strategy and 	roadmaps to support the business priorities and leadership direction. Driving the architectural understanding of those core business 	capabilities and the future transformation state need for change, to ultimately deliver better citizen centric outcomes and public 	services.
