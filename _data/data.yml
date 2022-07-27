@@ -143,27 +143,31 @@ projects:
     assignments:
       - title: 
         link: "#hook"
-        tagline: "Enterprise application implementation and delivery, IBM Watson Health, Cúram, Health and Human services Connect 360"
+        tagline: "Senior advisor on opportunities to deliver people-centered, digital service delivery for open, transparent and responsive government"
 
       - title: 
         link: "#"
-        tagline: "Complex relationship management application and system integration delivery projects; Master Data Management, Operational Data Store, API integration and transformation."
+        tagline: "Confident in leading outcomes-based transformation programs leveraging SaaS, Public Cloud with complex legacy integration requirements"
+    
+      - title: 
+        link: "#"
+        tagline: "10 years Technical Consulting leading large solutions teams winning the largest complex business opportunities in New Zealand."
         
       - title: 
         link: "#"
-        tagline: "Cloud solution delivery; Government Infrastructure as a Service (IaaS), cloud risk assessment and analysis"
+        tagline: "Proven track record in Enterprise Architecture and Senior Application Development with over 20 years of experience"
         
       - title: 
         link: "#"
-        tagline: "Hybrid Cloud Solutions; Solutions as a Service (SaaS) and Platforms as a Service (PaaS)"
+        tagline: "Leadership roles in large multinational organisation’s engaging with New Zealand’s largest businesses."
         
       - title: 
         link: "#"
-        tagline: "Responding to RFP tenders, through to formal oral presentations and contracting the statement of work"  
+        tagline: "Strategic thinker with strong ability to collaborate across large teams gaining consensus resulting in coordinated execution."  
         
       - title: 
         link: "#"
-        tagline: "Watson Natural Language discovery, Artificial Intelligence AI and development of chat bots"  
+        tagline: "Highly effective problem solver, able to research and troubleshoot complex Application and system challenges under pressure"  
         
 
 #publications:
